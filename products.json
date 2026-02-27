@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "brand": "Apple",
+      "models": ["iPhone 14", "iPhone 15", "MacBook Air", "MacBook Pro", "iPad Pro"]
+    },
+    {
+      "brand": "Samsung",
+      "models": ["Galaxy S23", "Galaxy Z Fold 5", "Galaxy Tab S9", "Galaxy Watch 6"]
+    },
+    {
+      "brand": "Sony",
+      "models": ["PlayStation 5", "Bravia XR TV", "WH-1000XM5", "Alpha 7 Camera"]
+    },
+    {
+      "brand": "Dell",
+      "models": ["XPS 13", "XPS 15", "Inspiron", "Alienware M18"]
+    },
+    {
+      "brand": "LG",
+      "models": ["OLED TV", "Gram Laptop", "Tone Free", "Washer/Dryer"]
+    }
+  ]
+}
